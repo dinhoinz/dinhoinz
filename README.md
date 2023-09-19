@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frederico</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🔭 I’m currently working on **PerformaIT**
+- 🔭 I’m currently working on [**PerformaIT**](https://performait.com/en/)
 
 - 🌱 I’m currently learning **GraphQL with Node Backend**
 
