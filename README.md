@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**PerformaIT**](https://performait.com/en/)
 
-- 🌱 I’m currently learning **GraphQL with Node Backend**
+- 🌱 I’m currently learning **C# .NET**
 
 - 📫 How to reach me **fred.farney@gmail.com**
 
